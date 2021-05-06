@@ -1,0 +1,32 @@
+﻿,team_name,team_abbrv,conference,division,home_c,away_c,normal_direct_of_play
+1,Anaheim Ducks,ANA,Western,Pacific,#111111,#F95602,TRUE
+2,Arizona Coyotes,ARI,Western,Pacific,#8C2633,#E2D6B5,TRUE
+3,Boston Bruins,BOS,Eastern,Atlantic,#111111,#FCB514,TRUE
+4,Buffalo Sabres,BUF,Eastern,Atlantic,#002654,#FCB514,TRUE
+5,Calgary Flames,CGY,Western,Pacific,#CE1126,#F3BC52,TRUE
+6,Carolina Hurricanes,CAR,Eastern,Metropolitan,#CE1126,#A4A9AD,TRUE
+7,Chicago Blackhawks,CHI,Western,Central,#CE1126,#D18A00,TRUE
+8,Colorado Avalanche,COL,Western,Central,#6F263D,#236192,TRUE
+9,Columbus Blue Jackets,CBJ,Eastern,Metropolitan,#002654,#A4A9AD,TRUE
+10,Dallas Stars,DAL,Western,Central,#006847,#8F8F8C,TRUE
+11,Detroit Red Wings,DET,Eastern,Atlantic,#CE1126,#A4A9AD,TRUE
+12,Edmonton Oilers,EDM,Western,Pacific,#041E41,#FF4C00,TRUE
+13,Florida Panthers,FLA,Eastern,Atlantic,#041E41,#B9975B,TRUE
+14,Los Angeles Kings,LAK,Western,Pacific,#111111,#ACAEA9,TRUE
+15,Minnesota Wild,MIN,Western,Central,#A6192E,#154734,TRUE
+16,Montreal Canadiens,MTL,Eastern,Atlantic,#AFLE2D,#192168,TRUE
+17,Nashville Predators,NSH,Western,Central,#041E41,#FFB81C,TRUE
+18,New Jersey Devils,NJD,Eastern,Metropolitan,#CE1126,#111111,TRUE
+19,New York Islanders,NYI,Eastern,Metropolitan,#00539b,#F47D30,TRUE
+20,New York Rangers,NYR,Eastern,Metropolitan,#CE1126,#0038A8,TRUE
+21,Ottawa Senators,OTT,Eastern,Atlantic,#CE1127,#BF910C,TRUE
+22,Philadelphia Flyers,PHI,Eastern,Metropolitan,#111111,#F74902,TRUE
+23,Pittsburgh Penguins,PIT,Eastern,Metropolitan,#111111,#FCB514,TRUE
+24,San Jose Sharks,SJS,Western,Pacific,#006D75,#EA7200,TRUE
+25,St. Louis Blues,STL,Western,Central,#002F87,#FCB514,TRUE
+26,Tampa Bay Lightning,TBL,Eastern,Atlantic,#00205B,#00205B,TRUE
+27,Toronto Maple Leafs,TOR,Eastern,Atlantic,#00205B,#00205B,TRUE
+28,Vancouver Canucks,VAN,Western,Pacific,#001F5B,#071C2C,TRUE
+29,Vegas Golden Knights,VGK,Western,Pacific,#333F42,#B4975A,TRUE
+30,Washington Capitals,WSH,Eastern,Metropolitan,#CF0A2C,#041E41,TRUE
+31,Winnipeg Jets,WPG,Western,Central,#7B303E,#041E41,TRUE
