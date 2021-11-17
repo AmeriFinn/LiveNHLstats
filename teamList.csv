@@ -23,10 +23,11 @@
 22,Philadelphia Flyers,PHI,Eastern,Metropolitan,#111111,#F74902,TRUE
 23,Pittsburgh Penguins,PIT,Eastern,Metropolitan,#111111,#FCB514,TRUE
 24,San Jose Sharks,SJS,Western,Pacific,#006D75,#EA7200,TRUE
-25,St. Louis Blues,STL,Western,Central,#002F87,#FCB514,TRUE
-26,Tampa Bay Lightning,TBL,Eastern,Atlantic,#00205B,#00205B,TRUE
-27,Toronto Maple Leafs,TOR,Eastern,Atlantic,#00205B,#00205B,TRUE
-28,Vancouver Canucks,VAN,Western,Pacific,#001F5B,#071C2C,TRUE
-29,Vegas Golden Knights,VGK,Western,Pacific,#333F42,#B4975A,FALSE
-30,Washington Capitals,WSH,Eastern,Metropolitan,#CF0A2C,#041E41,TRUE
-31,Winnipeg Jets,WPG,Western,Central,#7B303E,#041E41,FALSE
+25,Seattle Kraken,SEA,Western,Pacific,#355464,#68a2b9,FALSE
+26,St. Louis Blues,STL,Western,Central,#002F87,#FCB514,TRUE
+27,Tampa Bay Lightning,TBL,Eastern,Atlantic,#00205B,#00205B,TRUE
+28,Toronto Maple Leafs,TOR,Eastern,Atlantic,#00205B,#00205B,TRUE
+29,Vancouver Canucks,VAN,Western,Pacific,#001F5B,#071C2C,TRUE
+30,Vegas Golden Knights,VGK,Western,Pacific,#333F42,#B4975A,FALSE
+31,Washington Capitals,WSH,Eastern,Metropolitan,#CF0A2C,#041E41,TRUE
+32,Winnipeg Jets,WPG,Western,Central,#7B303E,#041E41,FALSE
