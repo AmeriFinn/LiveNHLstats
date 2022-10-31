@@ -1,7 +1,7 @@
 ﻿ ,team_name,team_abbrv,conference,division,home_c,away_c,normal_direct_of_play
 1,Anaheim Ducks,ANA,Western,Pacific,#111111,#F95602,TRUE
 2,Arizona Coyotes,ARI,Western,Central,#8C2633,#E2D6B5,TRUE
-3,Atlanta Thrashers,WPG,Eastern,Southeast,#041E42,#b86125,TRUE
+3,Atlanta Thrashers,ATL,Eastern,Southeast,#041E42,#b86125,TRUE
 4,Boston Bruins,BOS,Eastern,Atlantic,#111111,#FCB514,TRUE
 5,Buffalo Sabres,BUF,Eastern,Atlantic,#002654,#FCB514,TRUE
 6,Calgary Flames,CGY,Western,Pacific,#CE1126,#F3BC52,FALSE
@@ -22,7 +22,7 @@
 21,New York Rangers,NYR,Eastern,Metropolitan,#CE1126,#0038A8,FALSE
 22,Ottawa Senators,OTT,Eastern,Atlantic,#CE1127,#BF910C,TRUE
 23,Philadelphia Flyers,PHI,Eastern,Metropolitan,#111111,#F74902,TRUE
-24,Phoenix Coyotes,ARI,Western,Central,#8C2633,#E2D6B5,TRUE
+24,Phoenix Coyotes,PHX,Western,Central,#8C2633,#E2D6B5,TRUE
 25,Pittsburgh Penguins,PIT,Eastern,Metropolitan,#111111,#FCB514,TRUE
 26,San Jose Sharks,SJS,Western,Pacific,#006D75,#EA7200,TRUE
 27,Seattle Kraken,SEA,Western,Pacific,#001628,#68a2b9,TRUE
