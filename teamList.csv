@@ -1,35 +1,35 @@
-﻿ ,team_name,team_abbrv,conference,division,home_c,away_c,normal_direct_of_play,active_team
-1,Anaheim Ducks,ANA,Western,Pacific,#111111,#F95602,TRUE,TRUE
-2,Arizona Coyotes,ARI,Western,Central,#8C2633,#E2D6B5,TRUE,TRUE
-3,Atlanta Thrashers,ATL,Eastern,Southeast,#041E42,#b86125,TRUE,FALSE
-4,Boston Bruins,BOS,Eastern,Atlantic,#111111,#FCB514,TRUE,TRUE
-5,Buffalo Sabres,BUF,Eastern,Atlantic,#002654,#FCB514,TRUE,TRUE
-6,Calgary Flames,CGY,Western,Pacific,#CE1126,#F3BC52,FALSE,TRUE
-7,Carolina Hurricanes,CAR,Eastern,Metropolitan,#CE1126,#A4A9AD,TRUE,TRUE
-8,Chicago Blackhawks,CHI,Western,Central,#CE1126,#D18A00,TRUE,TRUE
-9,Colorado Avalanche,COL,Western,Central,#6F263D,#236192,FALSE,TRUE
-10,Columbus Blue Jackets,CBJ,Eastern,Metropolitan,#002654,#A4A9AD,TRUE,TRUE
-11,Dallas Stars,DAL,Western,Central,#006847,#8F8F8C,TRUE,TRUE
-12,Detroit Red Wings,DET,Eastern,Atlantic,#CE1126,#A4A9AD,FALSE,TRUE
-13,Edmonton Oilers,EDM,Western,Pacific,#041E41,#FF4C00,TRUE,TRUE
-14,Florida Panthers,FLA,Eastern,Atlantic,#041E41,#B9975B,TRUE,TRUE
-15,Los Angeles Kings,LAK,Western,Pacific,#111111,#ACAEA9,FALSE,TRUE
-16,Minnesota Wild,MIN,Western,Central,#A6192E,#154734,FALSE,TRUE
-17,Montréal Canadiens,MTL,Eastern,Atlantic,#AF1E2D,#192168,FALSE,TRUE
-18,Nashville Predators,NSH,Western,Central,#041E41,#FFB81C,TRUE,TRUE
-19,New Jersey Devils,NJD,Eastern,Metropolitan,#CE1126,#111111,TRUE,TRUE
-20,New York Islanders,NYI,Eastern,Metropolitan,#00539b,#F47D30,TRUE,TRUE
-21,New York Rangers,NYR,Eastern,Metropolitan,#CE1126,#0038A8,FALSE,TRUE
-22,Ottawa Senators,OTT,Eastern,Atlantic,#CE1127,#BF910C,TRUE,TRUE
-23,Philadelphia Flyers,PHI,Eastern,Metropolitan,#111111,#F74902,TRUE,TRUE
-24,Phoenix Coyotes,PHX,Western,Central,#8C2633,#E2D6B5,TRUE,FALSE
-25,Pittsburgh Penguins,PIT,Eastern,Metropolitan,#111111,#FCB514,TRUE,TRUE
-26,San Jose Sharks,SJS,Western,Pacific,#006D75,#EA7200,TRUE,TRUE
-27,Seattle Kraken,SEA,Western,Pacific,#001628,#68a2b9,TRUE,TRUE
-28,St. Louis Blues,STL,Western,Central,#002F87,#FCB514,TRUE,TRUE
-29,Tampa Bay Lightning,TBL,Eastern,Atlantic,#002868,#999999,TRUE,TRUE
-30,Toronto Maple Leafs,TOR,Eastern,Atlantic,#00205B,#999999,TRUE,TRUE
-31,Vancouver Canucks,VAN,Western,Pacific,#001F5B,#071C2C,FALSE,TRUE
-32,Vegas Golden Knights,VGK,Western,Pacific,#333F42,#B4975A,FALSE,TRUE
-33,Washington Capitals,WSH,Eastern,Metropolitan,#CF0A2C,#041E41,TRUE,TRUE
-34,Winnipeg Jets,WPG,Western,Central,#7B303E,#041E41,FALSE,TRUE
+﻿ ,team_name,team_abbrv,conference,division,home_c,away_c,normal_direct_of_play,active_team,primary_text_c
+1,Anaheim Ducks,ANA,Western,Pacific,#111111,#F95602,TRUE,TRUE,#FFFFFF
+2,Arizona Coyotes,ARI,Western,Central,#8C2633,#E2D6B5,TRUE,TRUE,#FFFFFF
+3,Atlanta Thrashers,ATL,Eastern,Southeast,#041E42,#b86125,TRUE,FALSE,#FFFFFF
+4,Boston Bruins,BOS,Eastern,Atlantic,#111111,#FCB514,TRUE,TRUE,#FFFFFF
+5,Buffalo Sabres,BUF,Eastern,Atlantic,#002654,#FCB514,TRUE,TRUE,#FFFFFF
+6,Calgary Flames,CGY,Western,Pacific,#CE1126,#F3BC52,FALSE,TRUE,#FFFFFF
+7,Carolina Hurricanes,CAR,Eastern,Metropolitan,#CE1126,#A4A9AD,TRUE,TRUE,#FFFFFF
+8,Chicago Blackhawks,CHI,Western,Central,#CE1126,#D18A00,TRUE,TRUE,#FFFFFF
+9,Colorado Avalanche,COL,Western,Central,#6F263D,#236192,FALSE,TRUE,#FFFFFF
+10,Columbus Blue Jackets,CBJ,Eastern,Metropolitan,#002654,#A4A9AD,TRUE,TRUE,#FFFFFF
+11,Dallas Stars,DAL,Western,Central,#006847,#8F8F8C,TRUE,TRUE,#FFFFFF
+12,Detroit Red Wings,DET,Eastern,Atlantic,#CE1126,#A4A9AD,FALSE,TRUE,#FFFFFF
+13,Edmonton Oilers,EDM,Western,Pacific,#041E41,#FF4C00,TRUE,TRUE,#FFFFFF
+14,Florida Panthers,FLA,Eastern,Atlantic,#041E41,#B9975B,TRUE,TRUE,#FFFFFF
+15,Los Angeles Kings,LAK,Western,Pacific,#111111,#ACAEA9,FALSE,TRUE,#FFFFFF
+16,Minnesota Wild,MIN,Western,Central,#A6192E,#154734,FALSE,TRUE,#FFFFFF
+17,Montréal Canadiens,MTL,Eastern,Atlantic,#AF1E2D,#192168,FALSE,TRUE,#FFFFFF
+18,Nashville Predators,NSH,Western,Central,#041E41,#FFB81C,TRUE,TRUE,#FFFFFF
+19,New Jersey Devils,NJD,Eastern,Metropolitan,#CE1126,#111111,TRUE,TRUE,#FFFFFF
+20,New York Islanders,NYI,Eastern,Metropolitan,#00539b,#F47D30,TRUE,TRUE,#FFFFFF
+21,New York Rangers,NYR,Eastern,Metropolitan,#CE1126,#0038A8,FALSE,TRUE,#FFFFFF
+22,Ottawa Senators,OTT,Eastern,Atlantic,#CE1127,#BF910C,TRUE,TRUE,#FFFFFF
+23,Philadelphia Flyers,PHI,Eastern,Metropolitan,#111111,#F74902,TRUE,TRUE,#FFFFFF
+24,Phoenix Coyotes,PHX,Western,Central,#8C2633,#E2D6B5,TRUE,FALSE,#FFFFFF
+25,Pittsburgh Penguins,PIT,Eastern,Metropolitan,#111111,#FCB514,TRUE,TRUE,#FFFFFF
+26,San Jose Sharks,SJS,Western,Pacific,#006D75,#EA7200,TRUE,TRUE,#FFFFFF
+27,Seattle Kraken,SEA,Western,Pacific,#001628,#68a2b9,TRUE,TRUE,#FFFFFF
+28,St. Louis Blues,STL,Western,Central,#002F87,#FCB514,TRUE,TRUE,#FFFFFF
+29,Tampa Bay Lightning,TBL,Eastern,Atlantic,#002868,#999999,TRUE,TRUE,#FFFFFF
+30,Toronto Maple Leafs,TOR,Eastern,Atlantic,#00205B,#999999,TRUE,TRUE,#FFFFFF
+31,Vancouver Canucks,VAN,Western,Pacific,#001F5B,#071C2C,FALSE,TRUE,#FFFFFF
+32,Vegas Golden Knights,VGK,Western,Pacific,#333F42,#B4975A,FALSE,TRUE,#FFFFFF
+33,Washington Capitals,WSH,Eastern,Metropolitan,#CF0A2C,#041E41,TRUE,TRUE,#FFFFFF
+34,Winnipeg Jets,WPG,Western,Central,#7B303E,#041E41,FALSE,TRUE,#FFFFFF
