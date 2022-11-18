@@ -5,7 +5,7 @@
 4,Boston Bruins,BOS,Eastern,Atlantic,#111111,#FCB514,TRUE,TRUE,#FFFFFF
 5,Buffalo Sabres,BUF,Eastern,Atlantic,#002654,#FCB514,TRUE,TRUE,#FFFFFF
 6,Calgary Flames,CGY,Western,Pacific,#CE1126,#F3BC52,FALSE,TRUE,#FFFFFF
-7,Carolina Hurricanes,CAR,Eastern,Metropolitan,#CE1126,#A4A9AD,TRUE,TRUE,#FFFFFF
+7,Carolina Hurricanes,CAR,Eastern,Metropolitan,#CE1126,#A4A9AD,FALSE,TRUE,#FFFFFF
 8,Chicago Blackhawks,CHI,Western,Central,#CE1126,#D18A00,TRUE,TRUE,#FFFFFF
 9,Colorado Avalanche,COL,Western,Central,#6F263D,#236192,FALSE,TRUE,#FFFFFF
 10,Columbus Blue Jackets,CBJ,Eastern,Metropolitan,#002654,#A4A9AD,TRUE,TRUE,#FFFFFF
