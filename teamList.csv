@@ -9,7 +9,7 @@
 8,Chicago Blackhawks,CHI,Western,Central,#CE1126,#D18A00,TRUE,TRUE,#FFFFFF
 9,Colorado Avalanche,COL,Western,Central,#6F263D,#236192,FALSE,TRUE,#FFFFFF
 10,Columbus Blue Jackets,CBJ,Eastern,Metropolitan,#002654,#A4A9AD,TRUE,TRUE,#FFFFFF
-11,Dallas Stars,DAL,Western,Central,#006847,#8F8F8C,TRUE,TRUE,#FFFFFF
+11,Dallas Stars,DAL,Western,Central,#006847,#8F8F8C,FALSE,TRUE,#FFFFFF
 12,Detroit Red Wings,DET,Eastern,Atlantic,#CE1126,#A4A9AD,FALSE,TRUE,#FFFFFF
 13,Edmonton Oilers,EDM,Western,Pacific,#041E41,#FF4C00,TRUE,TRUE,#FFFFFF
 14,Florida Panthers,FLA,Eastern,Atlantic,#041E41,#B9975B,TRUE,TRUE,#FFFFFF
