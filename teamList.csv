@@ -21,7 +21,7 @@
 20,New York Islanders,NYI,Eastern,Metropolitan,#00539b,#F47D30,TRUE,TRUE,#FFFFFF
 21,New York Rangers,NYR,Eastern,Metropolitan,#CE1126,#0038A8,FALSE,TRUE,#FFFFFF
 22,Ottawa Senators,OTT,Eastern,Atlantic,#CE1127,#BF910C,TRUE,TRUE,#FFFFFF
-23,Philadelphia Flyers,PHI,Eastern,Metropolitan,#111111,#F74902,TRUE,TRUE,#FFFFFF
+23,Philadelphia Flyers,PHI,Eastern,Metropolitan,#111111,#F74902,FALSE,TRUE,#FFFFFF
 24,Phoenix Coyotes,PHX,Western,Central,#8C2633,#E2D6B5,TRUE,FALSE,#FFFFFF
 25,Pittsburgh Penguins,PIT,Eastern,Metropolitan,#111111,#FCB514,TRUE,TRUE,#FFFFFF
 26,San Jose Sharks,SJS,Western,Pacific,#006D75,#EA7200,TRUE,TRUE,#FFFFFF
