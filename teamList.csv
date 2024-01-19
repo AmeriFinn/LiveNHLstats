@@ -18,15 +18,15 @@
 17,Montréal Canadiens,Montréal,MTL,Eastern,Atlantic,#AF1E2D,#192168,FALSE,TRUE,#FFFFFF
 18,Nashville Predators,Nashville,NSH,Western,Central,#FFB81C,#041E41,TRUE,TRUE,#FFFFFF
 19,New Jersey Devils,New Jersey,NJD,Eastern,Metropolitan,#CE1126,#111111,TRUE,TRUE,#FFFFFF
-20,New York Islanders,New York Islanders,NYI,Eastern,Metropolitan,#00539b,#F47D30,TRUE,TRUE,#FFFFFF
-21,New York Rangers,New York Rangers,NYR,Eastern,Metropolitan,#CE1126,#0038A8,FALSE,TRUE,#FFFFFF
+20,New York Islanders,Islanders,NYI,Eastern,Metropolitan,#00539b,#F47D30,TRUE,TRUE,#FFFFFF
+21,New York Rangers,Rangers,NYR,Eastern,Metropolitan,#CE1126,#0038A8,FALSE,TRUE,#FFFFFF
 22,Ottawa Senators,Ottawa,OTT,Eastern,Atlantic,#BF910C,#CE1127,TRUE,TRUE,#FFFFFF
 23,Philadelphia Flyers,Philadelphia,PHI,Eastern,Metropolitan,#F74902,#111111,FALSE,TRUE,#FFFFFF
 24,Phoenix Coyotes,Phoenix,PHX,Western,Central,#8C2633,#E2D6B5,TRUE,FALSE,#000000
 25,Pittsburgh Penguins,Pittsburgh,PIT,Eastern,Metropolitan,#111111,#FCB514,TRUE,TRUE,#FFFFFF
 26,San Jose Sharks,San Jose,SJS,Western,Pacific,#006D75,#EA7200,TRUE,TRUE,#FFFFFF
 27,Seattle Kraken,Seattle,SEA,Western,Pacific,#68a2b9,#001628,TRUE,TRUE,#FFFFFF
-28,St. Louis Blues,St. Louis,STL,Western,Central,#002F87,#FCB514,TRUE,TRUE,#FFFFFF
+28,St. Louis Blues,St Louis,STL,Western,Central,#002F87,#FCB514,TRUE,TRUE,#FFFFFF
 29,Tampa Bay Lightning,Tampa Bay,TBL,Eastern,Atlantic,#002868,#999999,TRUE,TRUE,#FFFFFF
 30,Toronto Maple Leafs,Toronto,TOR,Eastern,Atlantic,#00205B,#999999,TRUE,TRUE,#FFFFFF
 31,Vancouver Canucks,Vancouver,VAN,Western,Pacific,#001F5B,#071C2C,FALSE,TRUE,#FFFFFF
