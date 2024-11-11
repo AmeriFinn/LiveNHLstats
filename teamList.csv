@@ -11,7 +11,7 @@
 10,Columbus Blue Jackets,Columbus,CBJ,Eastern,Metropolitan,#002654,#A4A9AD,TRUE,TRUE,#FFFFFF
 11,Dallas Stars,Dallas,DAL,Western,Central,#006847,#8F8F8C,FALSE,TRUE,#FFFFFF
 12,Detroit Red Wings,Detroit,DET,Eastern,Atlantic,#CE1126,#A4A9AD,FALSE,TRUE,#FFFFFF
-13,Edmonton Oilers,Edmonton,EDM,Western,Pacific,#FF4C00,#041E41,TRUE,TRUE,#FFFFFF
+13,Edmonton Oilers,Edmonton,EDM,Western,Pacific,#041E41,#FF4C00,TRUE,TRUE,#FFFFFF
 14,Florida Panthers,Florida,FLA,Eastern,Atlantic,#041E41,#B9975B,TRUE,TRUE,#FFFFFF
 15,Los Angeles Kings,Los Angeles,LAK,Western,Pacific,#111111,#ACAEA9,FALSE,TRUE,#FFFFFF
 16,Minnesota Wild,Minnesota,MIN,Western,Central,#154734,#A6192E,FALSE,TRUE,#FFFFFF
@@ -29,6 +29,7 @@
 28,St. Louis Blues,St Louis,STL,Western,Central,#002F87,#FCB514,TRUE,TRUE,#FFFFFF
 29,Tampa Bay Lightning,Tampa Bay,TBL,Eastern,Atlantic,#002868,#999999,TRUE,TRUE,#FFFFFF
 30,Toronto Maple Leafs,Toronto,TOR,Eastern,Atlantic,#00205B,#999999,TRUE,TRUE,#FFFFFF
+35,Utah HC,Utah,UTA,Western,Central,#4EAAE9,#000000,TRUE,TRUE,#FFFFFF
 31,Vancouver Canucks,Vancouver,VAN,Western,Pacific,#001F5B,#071C2C,FALSE,TRUE,#FFFFFF
 32,Vegas Golden Knights,Vegas,VGK,Western,Pacific,#B4975A,#333F42,FALSE,TRUE,#FFFFFF
 33,Washington Capitals,Washington,WSH,Eastern,Metropolitan,#CF0A2C,#041E41,TRUE,TRUE,#FFFFFF
